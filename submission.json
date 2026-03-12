@@ -3,5 +3,6 @@
   "model": "DALL·E 3",
   "dataset_name": "World Economic Forum: The Future of Jobs Report 2025",
   "dataset_url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
-  "insight": "Like a global map where scattered tracts of fallen timber give way to a massive, sunlit super-bloom, the pain of job displacement is eclipsed by unprecedented growth—while structural changes will eliminate 92 million jobs, they will simultaneously create a vibrant landscape of 170 million opportunities."
+  "insight": "Like a global map where scattered tracts of fallen timber give way to a massive, sunlit super-bloom, the pain of job displacement is eclipsed by unprecedented growth—while structural changes will eliminate 92 million jobs, they will simultaneously create a vibrant landscape of 170 million opportunities.",
+  "publish_email": true
 }
